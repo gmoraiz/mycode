@@ -5,7 +5,8 @@
     <title>Revólver</title>
   </head>
   <body>
-    <!-- Para delimitar a área de escrita PHP no qual será interpretada usa-se o "<interrogação php" no inicio e "interrogação>" no fim. -->
+    <!-- Para delimitar a área de escrita PHP no qual será interpretada usa-se o "<interrogação php" no inicio e "interrogação>"
+    no fim. -->
     <?php
       //para definir a classe usamos simplesmente o class. Lembre-se, comece-se sempre o nome das classes com letra maiúscula.
       class Revolver{
@@ -38,10 +39,12 @@
         echo $this->qtdmax . "/" . $this->qtdatual;
       }
       
-      //Agora vamos usar nossa arma? A classe está feita, ok? Só que ela ainda não foi usada, o objeto não foi feito e não existe arma na memoria ):
+      //Agora vamos usar nossa arma? A classe está feita, ok? Só que ela ainda não foi usada, o objeto não foi feito e não existe 
+      //arma na memoria ):
       //Vamos fazer a primeira instância usando o operador new.
       $revolver = new Revolver();
-      //Antes do = temos a referência, depois o objeto. Não confunda! a variável revolver possui o primeito byte do objeto que localiza o endereço do objeto na memória. Ou seja, com essa variavel, temos contato com o tal objeto instanciado a partir do new.
+      //Antes do = temos a referência, depois o objeto. Não confunda! a variável revolver possui o primeito byte do objeto que 
+      //localiza o endereço do objeto na memória. Ou seja, com essa variavel, temos contato com o objeto instanciado a partir do new.
       //Opa, ok, agora vamos definir as munições, meter bala, carregar e exibir. Fazer tudo que nossos metodos oferecem.
       $revolver->qtdatual = 30;
       $revolver->qtdmax = 30;
@@ -50,6 +53,7 @@
       $revolver->carregar();
       $revolver->exibirMunicao();
     ?>
-    <!-- Bom, aqui finalizamos a introdução. Não pare por aqui, há muito conteúdo. Busque também na internet, estude em fontes confiaveis. Até mais sz. -->
+    <!-- Bom, aqui finalizamos a introdução. Não pare por aqui, há muito conteúdo. Busque também na internet, estude em fontes 
+    confiaveis. Até mais sz. -->
   </body>
 </html>
