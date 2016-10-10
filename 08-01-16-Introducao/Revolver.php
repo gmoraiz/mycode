@@ -28,7 +28,7 @@
       }
       
       public function carregar(){
-        //Para carregar, iremos usar uma lógica simples. Supondo que temos uma ak-47 e a quantidade máxima de munição é 30, ela tendo 
+        //Para carregar, iremos usar uma lógica simples. Supondo que temos uma ak-47 e a quantidade máxima de munição é 30, ela tendo 12
         //balas no momento, concorda que para carregar é só somar a quantidade atual com a quantidade maxima subtraida por quantidade 
         //atual? Exemplo 30-12 = 18. Ok? 18 + 12 = 30. OOOH, pronto, vamos fazer isso.
         $this->qtdatual += $this->qtdmax - $this->qtdatual;
