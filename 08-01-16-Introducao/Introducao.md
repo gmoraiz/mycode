@@ -38,7 +38,7 @@ filosofia por trás do estado mutável e imutável, alias, o paradigma funcional
 ##PHP
 
   Quero começar dizendo que se você pretende seguir o aprendizado nesta linguagem: BUSQUE NÃO FAZER GAMBIARRAS, pois ela te atrairá
-a isso. E eu posso te dizer que se você fizer um péssimo código em sua aplicação será comprometida. É melhor seguir o caminho mais
+a isso. E eu posso te dizer que se você fizer um péssimo código em sua aplicação, ela será comprometida. É melhor seguir o caminho mais
 difícil!
   PHP é uma linguagem de script open-source usada no desenvolvimento web. Famosa pela sua praticidade de escrita e tempo de aprendizagem.
 Mas lembre-se, não se atraia por isso, faça códigos demorados! Ela é de tipagem fraca e dinamica (recomendo [este link](http://pt.stackoverflow.com/questions/21508/qual-a-diferen%C3%A7a-entre-uma-linguagem-de-programa%C3%A7%C3%A3o-est%C3%A1tica-e-din%C3%A2mica "Tipagem"))
