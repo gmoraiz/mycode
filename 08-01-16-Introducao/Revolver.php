@@ -5,7 +5,7 @@
     <title>Revólver</title>
   </head>
   <body>
-    <!-- Para delimitar a área de escrita PHP no qual será interpretada usa-se o "<?php" no inicio e "?>" no fim. -->
+    <!-- Para delimitar a área de escrita PHP no qual será interpretada usa-se o "<interrogação php" no inicio e "interrogação>" no fim. -->
     <?php
       //para definir a classe usamos simplesmente o class. Lembre-se, comece-se sempre o nome das classes com letra maiúscula.
       class Revolver{
