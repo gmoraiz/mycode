@@ -9,7 +9,8 @@
     <?php
       //para definir a classe usamos simplesmente o class. Lembre-se, comece-se sempre o nome das classes com letra maiúscula.
       class Revolver{
-      //O que um revolver precisa? É bom sempre antes de começar a programar, desenvolver a modelagem a partir do diagrama de classes. Se você não sabe, busque saber como funciona, é de extrema importancia na orientação a objetos!
+      //O que um revolver precisa? É bom sempre antes de começar a programar, desenvolver a modelagem a partir do diagrama de classes. 
+      //Se você não sabe, busque saber como funciona, é de extrema importancia na orientação a objetos!
       //Precisa de dois atributos, sendo a quantidade de munição máxima e atual.
       //Vamos fazer os nossos primeiros atributos. Não se preocupe em saber o que é "public" no momento.
       public $qtdmax, $qtdatual;
@@ -26,7 +27,9 @@
       }
       
       public function carregar(){
-        //Para carregar, iremos usar uma lógica simples. Supondo que temos uma ak-47 e a quantidade máxima de munição é 30, ela tendo 12 balas no momento, concorda que para carregar é só somar a quantidade atual com a quantidade maxima subtraida por quantidade atual? Exemplo 30-12 = 18. Ok? 18 + 12 = 30. OOOH, pronto, vamos fazer isso.
+        //Para carregar, iremos usar uma lógica simples. Supondo que temos uma ak-47 e a quantidade máxima de munição é 30, ela tendo 
+        //balas no momento, concorda que para carregar é só somar a quantidade atual com a quantidade maxima subtraida por quantidade 
+        //atual? Exemplo 30-12 = 18. Ok? 18 + 12 = 30. OOOH, pronto, vamos fazer isso.
         $this->qtdatual += $this->qtdmax - $this->qtdatual;
       }
       
