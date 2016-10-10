@@ -41,7 +41,7 @@ filosofia por trás do estado mutável e imutável, alias, o paradigma funcional
 a isso. E eu posso te dizer que se você fizer um péssimo código em sua aplicação será comprometida. É melhor seguir o caminho mais
 difícil!
   PHP é uma linguagem de script open-source usada no desenvolvimento web. Famosa pela sua praticidade de escrita e tempo de aprendizagem.
-Mas lembre-se, não se atraia por isso, faça códigos demorados! Ela é de tipagem fraca e dinamica (recomendo [este link](http://pt.stackoverflow.com/questions/21508/qual-a-diferen%C3%A7a-entre-uma-linguagem-de-programa%C3%A7%C3%A3o-est%C3%A1tica-e-din%C3%A2mica "Tipagem")
+Mas lembre-se, não se atraia por isso, faça códigos demorados! Ela é de tipagem fraca e dinamica (recomendo [este link](http://pt.stackoverflow.com/questions/21508/qual-a-diferen%C3%A7a-entre-uma-linguagem-de-programa%C3%A7%C3%A3o-est%C3%A1tica-e-din%C3%A2mica "Tipagem"))
 para você saber mais sobre o que é uma tipagem fraca e dinamica.
   
 ###Variável $this
@@ -50,9 +50,9 @@ para você saber mais sobre o que é uma tipagem fraca e dinamica.
 faz referência ao objeto instanciado.
   Seguindo o exemplo do cachorro: `$this->nome`, `$this->latir($argumentos)`.
 
-  Como você pode perceber acima, no php usamos o **->** para visualizar/usar os atributos e metodos de um objeto.
+  Como você pode perceber acima, no php usamos o "->" para visualizar/usar os atributos e metodos de um objeto.
   E o **$** é uma estratégia da linguagem, no qual o interpretador, ao chegar no $, irá identificar que aquilo é uma váriavel. Ou seja,
-toda variável irá ter o $, e se você estiver usando o $this e for acessar um atributo de um objeto, não irá precisar do **$** novamente.
+toda variável irá ter o **$**, e se você estiver usando o **$this** e for acessar um atributo de um objeto, não irá precisar do **$** novamente.
 
 Agora vamos a um exemplo prático? Nesta pasta, teremos um código *Revolver.php*. Vamos programar um revolver com estes conceitos!
 
