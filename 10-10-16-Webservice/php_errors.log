@@ -1,0 +1,92 @@
+[10-Oct-2016 19:24:37 UTC] PHP Parse error:  syntax error, unexpected '===' (T_IS_IDENTICAL), expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 10
+[10-Oct-2016 20:04:49 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 32
+[10-Oct-2016 20:04:49 UTC] PHP Stack trace:
+[10-Oct-2016 20:04:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:36:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 7
+[10-Oct-2016 20:36:53 UTC] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER) in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 18
+[10-Oct-2016 20:38:09 UTC] PHP Parse error:  syntax error, unexpected '.0' (T_DNUMBER) in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 34
+[10-Oct-2016 20:38:16 UTC] PHP Fatal error:  Declaration of NomeRequestPOST::manipular() must be compatible with NomeResource::manipular($id) in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 14
+[10-Oct-2016 20:38:16 UTC] PHP Stack trace:
+[10-Oct-2016 20:38:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:38:39 UTC] PHP Fatal error:  Declaration of NomeRequestPOST::manipular() must be compatible with NomeResource::manipular($id) in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 14
+[10-Oct-2016 20:38:39 UTC] PHP Stack trace:
+[10-Oct-2016 20:38:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:38:52 UTC] PHP Fatal error:  Class 'NomeResourcePOST' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 51
+[10-Oct-2016 20:38:52 UTC] PHP Stack trace:
+[10-Oct-2016 20:38:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:39:23 UTC] PHP Fatal error:  Class 'mysqli_connect' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 6
+[10-Oct-2016 20:39:23 UTC] PHP Stack trace:
+[10-Oct-2016 20:39:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:39:23 UTC] PHP   2. NomeResourcePOST->__construct() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:51
+[10-Oct-2016 20:39:23 UTC] PHP   3. Connection::getConn() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:18
+[10-Oct-2016 20:39:34 UTC] PHP Fatal error:  Class 'mysqli_connect' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 6
+[10-Oct-2016 20:39:34 UTC] PHP Stack trace:
+[10-Oct-2016 20:39:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:39:34 UTC] PHP   2. NomeResourcePOST->__construct() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:51
+[10-Oct-2016 20:39:34 UTC] PHP   3. Connection::getConn() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:18
+[10-Oct-2016 20:41:33 UTC] PHP Fatal error:  Class 'mysqli_connect' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 6
+[10-Oct-2016 20:41:33 UTC] PHP Stack trace:
+[10-Oct-2016 20:41:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:41:33 UTC] PHP   2. NomeResourcePOST->__construct() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:52
+[10-Oct-2016 20:41:33 UTC] PHP   3. Connection::getConn() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:18
+[10-Oct-2016 20:42:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'db_teste' in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 6
+[10-Oct-2016 20:42:25 UTC] PHP Stack trace:
+[10-Oct-2016 20:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:42:25 UTC] PHP   2. NomeResourcePOST->__construct() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:52
+[10-Oct-2016 20:42:25 UTC] PHP   3. Connection::getConn() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:18
+[10-Oct-2016 20:42:25 UTC] PHP   4. mysqli_connect() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:6
+[10-Oct-2016 20:42:25 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 24
+[10-Oct-2016 20:42:25 UTC] PHP Stack trace:
+[10-Oct-2016 20:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:42:25 UTC] PHP   2. NomeResourcePOST->manipular() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:53
+[10-Oct-2016 20:44:27 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 39
+[10-Oct-2016 20:44:27 UTC] PHP Stack trace:
+[10-Oct-2016 20:44:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 20:44:27 UTC] PHP   2. NomeResourceGET->manipular() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:57
+[10-Oct-2016 20:48:45 UTC] PHP Fatal error:  Class 'NomeResourceGETGET' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 53
+[10-Oct-2016 20:48:45 UTC] PHP Stack trace:
+[10-Oct-2016 20:48:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[10-Oct-2016 21:52:22 UTC] PHP Fatal error:  Class 'AbcGET' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 54
+[10-Oct-2016 21:52:22 UTC] PHP Stack trace:
+[10-Oct-2016 21:52:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 04:51:33 UTC] PHP Fatal error:  Class 'GET' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 111
+[24-Oct-2016 04:51:33 UTC] PHP Stack trace:
+[24-Oct-2016 04:51:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 04:52:12 UTC] PHP Fatal error:  Class 'NomeResourceGETGET' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 111
+[24-Oct-2016 04:52:12 UTC] PHP Stack trace:
+[24-Oct-2016 04:52:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 04:52:15 UTC] PHP Fatal error:  Class 'NomeResourceGETGET' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 111
+[24-Oct-2016 04:52:15 UTC] PHP Stack trace:
+[24-Oct-2016 04:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 04:54:20 UTC] PHP Fatal error:  Class 'NomeResourceGETGET' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 111
+[24-Oct-2016 04:54:20 UTC] PHP Stack trace:
+[24-Oct-2016 04:54:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 04:54:38 UTC] PHP Fatal error:  Class 'NomeResourceGETGET' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 111
+[24-Oct-2016 04:54:38 UTC] PHP Stack trace:
+[24-Oct-2016 04:54:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 04:54:46 UTC] PHP Fatal error:  Class 'NomeResourceGETGET' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 111
+[24-Oct-2016 04:54:46 UTC] PHP Stack trace:
+[24-Oct-2016 04:54:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 04:54:47 UTC] PHP Fatal error:  Class 'NomeResourceGETGET' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 111
+[24-Oct-2016 04:54:47 UTC] PHP Stack trace:
+[24-Oct-2016 04:54:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 05:00:18 UTC] PHP Fatal error:  Class 'NomeResourceDELETE' not found in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 111
+[24-Oct-2016 05:00:18 UTC] PHP Stack trace:
+[24-Oct-2016 05:00:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 05:02:53 UTC] PHP Warning:  mysqli_stmt::bind_param(): Undefined fieldtype n (parameter 2) in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 59
+[24-Oct-2016 05:02:53 UTC] PHP Stack trace:
+[24-Oct-2016 05:02:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 05:02:53 UTC] PHP   2. NomeResourcePUT->manipular() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:114
+[24-Oct-2016 05:02:53 UTC] PHP   3. mysqli_stmt->bind_param() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:59
+[24-Oct-2016 05:08:32 UTC] PHP Fatal error:  Class NomeResourceOPTIONS contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (NomeResource::manipular) in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 84
+[24-Oct-2016 05:08:32 UTC] PHP Stack trace:
+[24-Oct-2016 05:08:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 05:12:12 UTC] PHP Fatal error:  Class NomeResourceOPTIONS contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (NomeResource::manipular) in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 84
+[24-Oct-2016 05:12:12 UTC] PHP Stack trace:
+[24-Oct-2016 05:12:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 05:12:29 UTC] PHP Fatal error:  Class NomeResourceOPTIONS contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (NomeResource::manipular) in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 84
+[24-Oct-2016 05:12:29 UTC] PHP Stack trace:
+[24-Oct-2016 05:12:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0
+[24-Oct-2016 05:12:47 UTC] PHP Fatal error:  Call to undefined method NomeResourceOPTIONS::manipular() in /home/ubuntu/workspace/10-10-16-Webservice/app/web.php on line 110
+[24-Oct-2016 05:12:47 UTC] PHP Stack trace:
+[24-Oct-2016 05:12:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-10-16-Webservice/app/web.php:0

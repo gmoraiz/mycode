@@ -1,166 +1,454 @@
-[08-Aug-2016 19:26:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 50
-[08-Aug-2016 19:26:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 50
-[08-Aug-2016 19:27:01 UTC] PHP Fatal error:  Call to undefined function exibir() in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 28
-[08-Aug-2016 19:27:01 UTC] PHP Stack trace:
-[08-Aug-2016 19:27:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[08-Aug-2016 19:27:01 UTC] PHP   2. Calculadora->__construct() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:53
-[08-Aug-2016 19:27:21 UTC] PHP Fatal error:  Call to undefined function exibir() in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 16
-[08-Aug-2016 19:27:21 UTC] PHP Stack trace:
-[08-Aug-2016 19:27:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[08-Aug-2016 19:27:21 UTC] PHP   2. Calculadora->__construct() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:53
-[08-Aug-2016 19:27:37 UTC] PHP Fatal error:  Call to undefined function exibir() in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 16
-[08-Aug-2016 19:27:37 UTC] PHP Stack trace:
-[08-Aug-2016 19:27:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[08-Aug-2016 19:27:37 UTC] PHP   2. Calculadora->__construct() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:53
-[08-Aug-2016 19:28:50 UTC] PHP Fatal error:  Call to undefined function exibir() in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 28
-[08-Aug-2016 19:28:50 UTC] PHP Stack trace:
-[08-Aug-2016 19:28:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[08-Aug-2016 19:28:50 UTC] PHP   2. Calculadora->__construct() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:53
-[15-Aug-2016 19:02:03 UTC] PHP Fatal error:  Method name must be a string in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 41
-[15-Aug-2016 19:02:03 UTC] PHP Stack trace:
-[15-Aug-2016 19:02:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[15-Aug-2016 19:03:46 UTC] PHP Fatal error:  Call to undefined function exibir() in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 16
-[15-Aug-2016 19:03:46 UTC] PHP Stack trace:
-[15-Aug-2016 19:03:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[15-Aug-2016 19:03:46 UTC] PHP   2. Calculadora->"somar"() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:41
-[15-Aug-2016 19:03:46 UTC] PHP   3. Calculadora->__call() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:41
-[15-Aug-2016 19:13:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/08-15-16RelacionamentoEntreClasses/Aula.php on line 35
-[15-Aug-2016 19:14:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/08-15-16RelacionamentoEntreClasses/Aula.php on line 35
-[15-Aug-2016 19:14:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/08-15-16RelacionamentoEntreClasses/Aula.php on line 35
-[15-Aug-2016 19:15:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/08-15-16RelacionamentoEntreClasses/Aula.php on line 42
-[15-Aug-2016 19:32:21 UTC] PHP Fatal error:  Method name must be a string in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 41
-[15-Aug-2016 19:32:21 UTC] PHP Stack trace:
-[15-Aug-2016 19:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[15-Aug-2016 19:35:40 UTC] PHP Fatal error:  Call to undefined function exibir() in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 16
-[15-Aug-2016 19:35:40 UTC] PHP Stack trace:
-[15-Aug-2016 19:35:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[15-Aug-2016 19:35:40 UTC] PHP   2. Calculadora->"somar"() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:41
-[15-Aug-2016 19:35:40 UTC] PHP   3. Calculadora->__call() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:41
-[15-Aug-2016 19:37:26 UTC] PHP Fatal error:  Call to undefined function exibir() in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 16
-[15-Aug-2016 19:37:26 UTC] PHP Stack trace:
-[15-Aug-2016 19:37:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[15-Aug-2016 19:37:26 UTC] PHP   2. Calculadora->"somar"() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:41
-[15-Aug-2016 19:37:26 UTC] PHP   3. Calculadora->__call() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:41
-[15-Aug-2016 19:37:31 UTC] PHP Fatal error:  Call to undefined function exibir() in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 16
-[15-Aug-2016 19:37:31 UTC] PHP Stack trace:
-[15-Aug-2016 19:37:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[15-Aug-2016 19:37:31 UTC] PHP   2. Calculadora->"somar"() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:41
-[15-Aug-2016 19:37:31 UTC] PHP   3. Calculadora->__call() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:41
-[15-Aug-2016 19:40:05 UTC] PHP Fatal error:  Method name must be a string in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 41
-[15-Aug-2016 19:40:05 UTC] PHP Stack trace:
-[15-Aug-2016 19:40:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[15-Aug-2016 20:04:46 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 16
-[15-Aug-2016 20:07:06 UTC] PHP Fatal error:  Method name must be a string in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 38
-[15-Aug-2016 20:07:06 UTC] PHP Stack trace:
-[15-Aug-2016 20:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[15-Aug-2016 20:57:24 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/ubuntu/workspace/08-15-16RelacionamentoEntreClasses/Ex.php on line 51
-[22-Aug-2016 15:23:22 UTC] PHP Fatal error:  Method name must be a string in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 39
-[22-Aug-2016 15:23:22 UTC] PHP Stack trace:
-[22-Aug-2016 15:23:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[22-Aug-2016 15:27:16 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 37
-[22-Aug-2016 15:40:31 UTC] PHP Fatal error:  Method name must be a string in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 37
-[22-Aug-2016 15:40:31 UTC] PHP Stack trace:
-[22-Aug-2016 15:40:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[22-Aug-2016 15:40:33 UTC] PHP Fatal error:  Method name must be a string in /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php on line 37
-[22-Aug-2016 15:40:33 UTC] PHP Stack trace:
-[22-Aug-2016 15:40:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16Construtores/ExCalculadora.php:0
-[22-Aug-2016 20:23:59 UTC] PHP Fatal error:  Call to undefined function listarPokemons() in /home/ubuntu/workspace/08-22-16-/Aula.php on line 69
-[22-Aug-2016 20:23:59 UTC] PHP Stack trace:
-[22-Aug-2016 20:23:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-22-16-/Aula.php:0
-[22-Aug-2016 20:24:27 UTC] PHP Fatal error:  Call to a member function status() on a non-object in /home/ubuntu/workspace/08-22-16-/Aula.php on line 45
-[22-Aug-2016 20:24:27 UTC] PHP Stack trace:
-[22-Aug-2016 20:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-22-16-/Aula.php:0
-[22-Aug-2016 20:24:27 UTC] PHP   2. Trainer->listarPokemons() /home/ubuntu/workspace/08-22-16-/Aula.php:69
-[22-Aug-2016 20:25:28 UTC] PHP Fatal error:  Call to a member function status() on a non-object in /home/ubuntu/workspace/08-22-16-/Aula.php on line 45
-[22-Aug-2016 20:25:28 UTC] PHP Stack trace:
-[22-Aug-2016 20:25:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-22-16-/Aula.php:0
-[22-Aug-2016 20:25:28 UTC] PHP   2. Trainer->listarPokemons() /home/ubuntu/workspace/08-22-16-/Aula.php:69
-[22-Aug-2016 20:27:38 UTC] PHP Fatal error:  Call to a member function status() on a non-object in /home/ubuntu/workspace/08-22-16-/Aula.php on line 45
-[22-Aug-2016 20:27:38 UTC] PHP Stack trace:
-[22-Aug-2016 20:27:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-22-16-/Aula.php:0
-[22-Aug-2016 20:27:38 UTC] PHP   2. Trainer->listarPokemons() /home/ubuntu/workspace/08-22-16-/Aula.php:69
-[22-Aug-2016 20:48:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ubuntu/workspace/08-22-16-/Aula.php on line 56
-[22-Aug-2016 20:52:14 UTC] PHP Fatal error:  Call to a member function status() on a non-object in /home/ubuntu/workspace/08-22-16-/Aula.php on line 57
-[22-Aug-2016 20:52:14 UTC] PHP Stack trace:
-[22-Aug-2016 20:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-22-16-/Aula.php:0
-[22-Aug-2016 20:52:14 UTC] PHP   2. Trainer->listarPokemons() /home/ubuntu/workspace/08-22-16-/Aula.php:81
-[22-Aug-2016 20:53:42 UTC] PHP Fatal error:  Call to a member function status() on a non-object in /home/ubuntu/workspace/08-22-16-/Aula.php on line 58
-[22-Aug-2016 20:53:42 UTC] PHP Stack trace:
-[22-Aug-2016 20:53:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-22-16-/Aula.php:0
-[22-Aug-2016 20:53:42 UTC] PHP   2. Trainer->listarPokemons() /home/ubuntu/workspace/08-22-16-/Aula.php:82
-[22-Aug-2016 20:55:56 UTC] PHP Parse error:  syntax error, unexpected '$t' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/08-22-16-/Aula.php on line 79
-[22-Aug-2016 20:56:09 UTC] PHP Parse error:  syntax error, unexpected '$t' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/08-22-16-/Aula.php on line 79
-[22-Aug-2016 20:56:10 UTC] PHP Parse error:  syntax error, unexpected '$t' (T_VARIABLE), expecting function (T_FUNCTION) in /home/ubuntu/workspace/08-22-16-/Aula.php on line 79
-[22-Aug-2016 21:05:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/08-22-16-/Aula.php on line 82
-[22-Aug-2016 21:10:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/08-22-16-/Aula.php on line 58
-[29-Aug-2016 20:47:05 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/08-29-16-Heranca/Aula.php on line 71
-[29-Aug-2016 20:47:05 UTC] PHP Stack trace:
-[29-Aug-2016 20:47:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-29-16-Heranca/Aula.php:0
-[29-Aug-2016 20:47:05 UTC] PHP   2. Pikachu->choqueDoTrovao() /home/ubuntu/workspace/08-29-16-Heranca/Aula.php:95
-[05-Sep-2016 19:04:30 UTC] PHP Fatal error:  Cannot redeclare Pokemon::getAtaque() in /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php on line 59
-[05-Sep-2016 19:10:43 UTC] PHP Fatal error:  Call to a member function algumaCoisa() on a non-object in /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php on line 80
-[05-Sep-2016 19:10:43 UTC] PHP Stack trace:
-[05-Sep-2016 19:10:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php:0
-[05-Sep-2016 19:11:06 UTC] PHP Parse error:  syntax error, unexpected 'Trainer' (T_STRING) in /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php on line 80
-[05-Sep-2016 19:11:28 UTC] PHP Parse error:  syntax error, unexpected 'Trainer' (T_STRING) in /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php on line 80
-[05-Sep-2016 19:11:31 UTC] PHP Parse error:  syntax error, unexpected 'Trainer' (T_STRING) in /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php on line 80
-[05-Sep-2016 19:11:32 UTC] PHP Parse error:  syntax error, unexpected 'Trainer' (T_STRING) in /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php on line 80
-[05-Sep-2016 19:12:39 UTC] PHP Fatal error:  Call to a member function algumaCoisa() on a non-object in /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php on line 81
-[05-Sep-2016 19:12:39 UTC] PHP Stack trace:
-[05-Sep-2016 19:12:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php:0
-[05-Sep-2016 19:12:57 UTC] PHP Fatal error:  Call to undefined method Pokemon::setAtk() in /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php on line 66
-[05-Sep-2016 19:12:57 UTC] PHP Stack trace:
-[05-Sep-2016 19:12:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php:0
-[05-Sep-2016 19:12:57 UTC] PHP   2. Trainer->algumaCoisa() /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php:81
-[05-Sep-2016 19:21:55 UTC] PHP Fatal error:  Call to undefined method Pokemon::setAtk() in /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php on line 66
-[05-Sep-2016 19:21:55 UTC] PHP Stack trace:
-[05-Sep-2016 19:21:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php:0
-[05-Sep-2016 19:21:55 UTC] PHP   2. Trainer->algumaCoisa() /home/ubuntu/workspace/09-0516-ModificadoresDeAcesso/Aula.php:81
-[12-Sep-2016 19:30:25 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 9
-[12-Sep-2016 19:31:33 UTC] PHP Parse error:  syntax error, unexpected '$inimigo' (T_VARIABLE) in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 90
-[12-Sep-2016 19:32:06 UTC] PHP Parse error:  syntax error, unexpected '$inimigo' (T_VARIABLE) in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 90
-[12-Sep-2016 19:32:42 UTC] PHP Parse error:  syntax error, unexpected '$inimigo' (T_VARIABLE) in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 90
-[20-Sep-2016 00:52:02 UTC] PHP Catchable fatal error:  Argument 1 passed to Movimento::andarNaAgua() must implement interface Surfavel, instance of Pokemon2 given, called in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 117 and defined in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 108
-[20-Sep-2016 00:52:02 UTC] PHP Stack trace:
-[20-Sep-2016 00:52:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 00:52:02 UTC] PHP   2. Movimento->andarNaAgua() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:117
-[20-Sep-2016 00:53:57 UTC] PHP Fatal error:  Class Planta contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Surfavel::surfar) in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 79
-[20-Sep-2016 00:53:57 UTC] PHP Stack trace:
-[20-Sep-2016 00:53:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 00:54:41 UTC] PHP Catchable fatal error:  Argument 1 passed to Movimento::andarNaAgua() must implement interface Surfavel, instance of Pokemon2 given, called in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 116 and defined in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 107
-[20-Sep-2016 00:54:41 UTC] PHP Stack trace:
-[20-Sep-2016 00:54:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 00:54:41 UTC] PHP   2. Movimento->andarNaAgua() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:116
-[20-Sep-2016 00:56:56 UTC] PHP Catchable fatal error:  Argument 1 passed to Movimento::andarNaAgua() must implement interface Surfavel, instance of Pokemon2 given, called in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 116 and defined in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 107
-[20-Sep-2016 00:56:56 UTC] PHP Stack trace:
-[20-Sep-2016 00:56:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 00:56:56 UTC] PHP   2. Movimento->andarNaAgua() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:116
-[20-Sep-2016 00:56:58 UTC] PHP Catchable fatal error:  Argument 1 passed to Movimento::andarNaAgua() must implement interface Surfavel, instance of Pokemon2 given, called in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 116 and defined in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 107
-[20-Sep-2016 00:56:58 UTC] PHP Stack trace:
-[20-Sep-2016 00:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 00:56:58 UTC] PHP   2. Movimento->andarNaAgua() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:116
-[20-Sep-2016 00:57:13 UTC] PHP Catchable fatal error:  Argument 1 passed to Movimento::andarNaAgua() must implement interface Surfavel, instance of Pokemon2 given, called in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 116 and defined in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 107
-[20-Sep-2016 00:57:13 UTC] PHP Stack trace:
-[20-Sep-2016 00:57:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 00:57:13 UTC] PHP   2. Movimento->andarNaAgua() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:116
-[20-Sep-2016 00:57:28 UTC] PHP Fatal error:  Class Planta contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Surfavel::surfar) in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 79
-[20-Sep-2016 00:57:28 UTC] PHP Stack trace:
-[20-Sep-2016 00:57:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 00:58:01 UTC] PHP Catchable fatal error:  Argument 1 passed to Movimento::andarNaAgua() must implement interface Surfavel, instance of Pokemon2 given, called in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 119 and defined in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 110
-[20-Sep-2016 00:58:01 UTC] PHP Stack trace:
-[20-Sep-2016 00:58:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 00:58:01 UTC] PHP   2. Movimento->andarNaAgua() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:119
-[20-Sep-2016 00:58:18 UTC] PHP Fatal error:  Class Planta contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Surfavel::surfar) in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 79
-[20-Sep-2016 00:58:18 UTC] PHP Stack trace:
-[20-Sep-2016 00:58:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 01:00:52 UTC] PHP Catchable fatal error:  Argument 1 passed to Movimento::andarNaAgua() must implement interface Surfavel, instance of Pokemon2 given, called in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 116 and defined in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 107
-[20-Sep-2016 01:00:52 UTC] PHP Stack trace:
-[20-Sep-2016 01:00:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 01:00:52 UTC] PHP   2. Movimento->andarNaAgua() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:116
-[20-Sep-2016 01:01:34 UTC] PHP Catchable fatal error:  Argument 1 passed to Movimento::andarNaAgua() must implement interface Surfavel, instance of Pokemon2 given, called in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 116 and defined in /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php on line 107
-[20-Sep-2016 01:01:34 UTC] PHP Stack trace:
-[20-Sep-2016 01:01:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:0
-[20-Sep-2016 01:01:34 UTC] PHP   2. Movimento->andarNaAgua() /home/ubuntu/workspace/09-12-16-Abstracao/Aula.php:116
-[29-Sep-2016 16:28:01 UTC] PHP Fatal error:  Method name must be a string in /home/ubuntu/workspace/08-08-16-Construtores/ExCalculadora.php on line 37
-[29-Sep-2016 16:28:01 UTC] PHP Stack trace:
-[29-Sep-2016 16:28:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/08-08-16-Construtores/ExCalculadora.php:0
+[07-Nov-2016 18:42:38 UTC] PHP Fatal error:  Call to a member function init() on a non-object in /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php on line 23
+[07-Nov-2016 18:42:38 UTC] PHP Stack trace:
+[07-Nov-2016 18:42:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[07-Nov-2016 18:42:38 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[07-Nov-2016 18:42:38 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[07-Nov-2016 18:42:38 UTC] PHP   4. Disciplina->postar() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[07-Nov-2016 19:18:38 UTC] PHP Parse error:  syntax error, unexpected '"Disciplina/cadastro"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/10-31-16-MVC2/application/config/routes.php on line 55
+[07-Nov-2016 19:18:38 UTC] PHP Stack trace:
+[07-Nov-2016 19:18:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[07-Nov-2016 19:18:38 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[07-Nov-2016 19:18:38 UTC] PHP   3. load_class() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:308
+[07-Nov-2016 19:18:38 UTC] PHP   4. CI_Router->__construct() /home/ubuntu/workspace/10-31-16-MVC2/system/core/Common.php:196
+[07-Nov-2016 19:18:38 UTC] PHP   5. CI_Router->_set_routing() /home/ubuntu/workspace/10-31-16-MVC2/system/core/Router.php:133
+[10-Nov-2016 05:07:55 UTC] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 7
+[10-Nov-2016 05:07:55 UTC] PHP Stack trace:
+[10-Nov-2016 05:07:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 05:07:55 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[10-Nov-2016 05:07:55 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 05:07:55 UTC] PHP   4. Categoria->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 05:09:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 28
+[10-Nov-2016 05:09:19 UTC] PHP Stack trace:
+[10-Nov-2016 05:09:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 05:09:19 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[10-Nov-2016 14:16:26 UTC] PHP Fatal error:  Call to undefined function validar() in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 7
+[10-Nov-2016 14:16:26 UTC] PHP Stack trace:
+[10-Nov-2016 14:16:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 14:16:26 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[10-Nov-2016 14:16:26 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 14:16:26 UTC] PHP   4. Categoria->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 14:57:07 UTC] PHP Fatal error:  Call to undefined method CategoriaModel::obj() in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 14
+[10-Nov-2016 14:57:07 UTC] PHP Stack trace:
+[10-Nov-2016 14:57:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 14:57:07 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[10-Nov-2016 14:57:07 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 14:57:07 UTC] PHP   4. Categoria->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 15:11:20 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 30
+[10-Nov-2016 15:11:20 UTC] PHP Stack trace:
+[10-Nov-2016 15:11:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 15:11:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[10-Nov-2016 20:35:06 UTC] PHP Fatal error:  Cannot redeclare Categoria::listar() in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 45
+[10-Nov-2016 20:35:06 UTC] PHP Stack trace:
+[10-Nov-2016 20:35:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 20:35:06 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[10-Nov-2016 20:59:50 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/projeto/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 20:59:50 UTC] PHP Stack trace:
+[10-Nov-2016 20:59:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 20:59:50 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[10-Nov-2016 20:59:50 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 20:59:50 UTC] PHP   4. Categoria->listar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 20:59:50 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/projeto/application/controllers/Categoria.php:23
+[10-Nov-2016 20:59:50 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/projeto/system/database/DB_result.php:168
+[10-Nov-2016 20:59:50 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/projeto/system/database/DB_result.php:220
+[10-Nov-2016 20:59:50 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/projeto/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:08:33 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 22
+[10-Nov-2016 21:08:33 UTC] PHP Stack trace:
+[10-Nov-2016 21:08:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 21:08:33 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[10-Nov-2016 21:08:33 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:08:33 UTC] PHP   4. Categoria->listar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:09:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 26
+[10-Nov-2016 21:09:28 UTC] PHP Stack trace:
+[10-Nov-2016 21:09:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 21:09:28 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[10-Nov-2016 21:36:33 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:36:33 UTC] PHP Stack trace:
+[10-Nov-2016 21:36:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:36:33 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:36:33 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:36:33 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:36:33 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:36:33 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:36:33 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:36:33 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:36:48 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:36:48 UTC] PHP Stack trace:
+[10-Nov-2016 21:36:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:36:48 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:36:48 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:36:48 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:36:48 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:36:48 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:36:48 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:36:48 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:37:09 UTC] PHP Fatal error:  Class 'disc' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:37:09 UTC] PHP Stack trace:
+[10-Nov-2016 21:37:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:37:09 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:37:09 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:37:09 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:37:09 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:37:09 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:37:09 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:37:09 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:37:20 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:37:20 UTC] PHP Stack trace:
+[10-Nov-2016 21:37:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:37:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:37:20 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:37:20 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:37:20 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:37:20 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:37:20 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:37:20 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:37:51 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:37:51 UTC] PHP Stack trace:
+[10-Nov-2016 21:37:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:37:51 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:37:51 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:37:51 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:37:51 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:37:51 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:37:51 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:37:51 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:37:56 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:37:56 UTC] PHP Stack trace:
+[10-Nov-2016 21:37:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:37:56 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:37:56 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:37:56 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:37:56 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:37:56 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:37:56 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:37:56 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:38:11 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:38:11 UTC] PHP Stack trace:
+[10-Nov-2016 21:38:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:38:11 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:38:11 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:38:11 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:38:11 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:38:11 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:38:11 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:38:11 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:41:37 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:41:37 UTC] PHP Stack trace:
+[10-Nov-2016 21:41:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:41:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:41:37 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:41:37 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:41:37 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:41:37 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:41:37 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:41:37 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:42:14 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:42:14 UTC] PHP Stack trace:
+[10-Nov-2016 21:42:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:42:14 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:42:14 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:42:14 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:42:14 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:42:14 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:42:14 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:42:14 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:42:46 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:42:46 UTC] PHP Stack trace:
+[10-Nov-2016 21:42:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:42:46 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:42:46 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:42:46 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:42:46 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:42:46 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:42:46 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:42:46 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:43:24 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[10-Nov-2016 21:43:24 UTC] PHP Stack trace:
+[10-Nov-2016 21:43:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[10-Nov-2016 21:43:24 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[10-Nov-2016 21:43:24 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:43:24 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[10-Nov-2016 21:43:24 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[10-Nov-2016 21:43:24 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[10-Nov-2016 21:43:24 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[10-Nov-2016 21:43:24 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[10-Nov-2016 21:46:21 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 25
+[10-Nov-2016 21:46:21 UTC] PHP Stack trace:
+[10-Nov-2016 21:46:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[10-Nov-2016 21:46:21 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 00:49:12 UTC] PHP Fatal error:  Class 'CategorialModel' not found in /home/ubuntu/workspace/projeto/system/database/drivers/mysqli/mysqli_result.php on line 183
+[11-Nov-2016 00:49:12 UTC] PHP Stack trace:
+[11-Nov-2016 00:49:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 00:49:12 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 00:49:12 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 00:49:12 UTC] PHP   4. Categoria->listar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 00:49:12 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/projeto/application/controllers/Categoria.php:24
+[11-Nov-2016 00:49:12 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/projeto/system/database/DB_result.php:168
+[11-Nov-2016 00:49:12 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/projeto/system/database/DB_result.php:220
+[11-Nov-2016 00:49:12 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/projeto/system/database/drivers/mysqli/mysqli_result.php:183
+[11-Nov-2016 01:40:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 27
+[11-Nov-2016 01:40:47 UTC] PHP Stack trace:
+[11-Nov-2016 01:40:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 01:40:47 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 01:42:43 UTC] PHP Parse error:  syntax error, unexpected '$x' (T_VARIABLE) in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 28
+[11-Nov-2016 01:42:43 UTC] PHP Stack trace:
+[11-Nov-2016 01:42:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 01:42:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 01:56:20 UTC] PHP Fatal error:  Call to a member function __init__() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 28
+[11-Nov-2016 01:56:20 UTC] PHP Stack trace:
+[11-Nov-2016 01:56:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 01:56:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 01:56:20 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 01:56:20 UTC] PHP   4. Categoria->listar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 01:56:30 UTC] PHP Fatal error:  Call to a member function __init__() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 28
+[11-Nov-2016 01:56:30 UTC] PHP Stack trace:
+[11-Nov-2016 01:56:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 01:56:30 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 01:56:30 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 01:56:30 UTC] PHP   4. Categoria->listar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 01:57:36 UTC] PHP Fatal error:  Call to a member function __init__() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 29
+[11-Nov-2016 01:57:36 UTC] PHP Stack trace:
+[11-Nov-2016 01:57:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 01:57:36 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 01:57:36 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 01:57:36 UTC] PHP   4. Categoria->listar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 01:57:49 UTC] PHP Fatal error:  Call to a member function __init__() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 29
+[11-Nov-2016 01:57:49 UTC] PHP Stack trace:
+[11-Nov-2016 01:57:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 01:57:49 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 01:57:49 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 01:57:49 UTC] PHP   4. Categoria->listar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 02:04:36 UTC] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 30
+[11-Nov-2016 02:04:36 UTC] PHP Stack trace:
+[11-Nov-2016 02:04:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 02:04:36 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 02:31:15 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[11-Nov-2016 02:31:15 UTC] PHP Stack trace:
+[11-Nov-2016 02:31:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[11-Nov-2016 02:31:15 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[11-Nov-2016 02:31:15 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[11-Nov-2016 02:31:15 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[11-Nov-2016 02:31:15 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[11-Nov-2016 02:31:15 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[11-Nov-2016 02:31:15 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[11-Nov-2016 02:31:15 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[11-Nov-2016 02:31:41 UTC] PHP Fatal error:  Class 'tb_disciplina' not found in /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php on line 183
+[11-Nov-2016 02:31:41 UTC] PHP Stack trace:
+[11-Nov-2016 02:31:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/10-31-16-MVC2/index.php:0
+[11-Nov-2016 02:31:41 UTC] PHP   2. require_once() /home/ubuntu/workspace/10-31-16-MVC2/index.php:315
+[11-Nov-2016 02:31:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[11-Nov-2016 02:31:41 UTC] PHP   4. Disciplina->perfil() /home/ubuntu/workspace/10-31-16-MVC2/system/core/CodeIgniter.php:529
+[11-Nov-2016 02:31:41 UTC] PHP   5. CI_DB_result->result() /home/ubuntu/workspace/10-31-16-MVC2/application/controllers/Disciplina.php:13
+[11-Nov-2016 02:31:41 UTC] PHP   6. CI_DB_result->custom_result_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:168
+[11-Nov-2016 02:31:41 UTC] PHP   7. CI_DB_mysqli_result->_fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/DB_result.php:220
+[11-Nov-2016 02:31:41 UTC] PHP   8. mysqli_result->fetch_object() /home/ubuntu/workspace/10-31-16-MVC2/system/database/drivers/mysqli/mysqli_result.php:183
+[11-Nov-2016 05:21:44 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 13
+[11-Nov-2016 05:21:44 UTC] PHP Stack trace:
+[11-Nov-2016 05:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 05:21:44 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 05:30:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 26
+[11-Nov-2016 05:30:14 UTC] PHP Stack trace:
+[11-Nov-2016 05:30:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 05:30:14 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 03:47:48 America/Sao_Paulo] PHP Fatal error:  Call to undefined function validaImagem() in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 14
+[11-Nov-2016 03:47:48 America/Sao_Paulo] PHP Stack trace:
+[11-Nov-2016 03:47:48 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 03:47:48 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 03:47:48 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 03:47:48 America/Sao_Paulo] PHP   4. Noticia->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 03:53:35 America/Sao_Paulo] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 15
+[11-Nov-2016 03:53:35 America/Sao_Paulo] PHP Stack trace:
+[11-Nov-2016 03:53:35 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 03:53:35 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 03:53:35 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 03:53:35 America/Sao_Paulo] PHP   4. Noticia->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 03:54:20 America/Sao_Paulo] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 15
+[11-Nov-2016 03:54:20 America/Sao_Paulo] PHP Stack trace:
+[11-Nov-2016 03:54:20 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 03:54:20 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 03:54:20 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 03:54:20 America/Sao_Paulo] PHP   4. Noticia->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:02:29 America/Sao_Paulo] PHP Fatal error:  Call to a member function obj() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 22
+[11-Nov-2016 04:02:29 America/Sao_Paulo] PHP Stack trace:
+[11-Nov-2016 04:02:29 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 04:02:29 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 04:02:29 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:02:29 America/Sao_Paulo] PHP   4. Noticia->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:03:06 America/Sao_Paulo] PHP Fatal error:  Call to a member function obj() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 22
+[11-Nov-2016 04:03:06 America/Sao_Paulo] PHP Stack trace:
+[11-Nov-2016 04:03:06 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 04:03:06 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 04:03:06 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:03:06 America/Sao_Paulo] PHP   4. Noticia->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:03:22 America/Sao_Paulo] PHP Fatal error:  Call to undefined method NoticiaModel::obj() in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 22
+[11-Nov-2016 04:03:22 America/Sao_Paulo] PHP Stack trace:
+[11-Nov-2016 04:03:22 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 04:03:22 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 04:03:22 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:03:22 America/Sao_Paulo] PHP   4. Noticia->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:07:36 America/Sao_Paulo] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 17
+[11-Nov-2016 04:07:36 America/Sao_Paulo] PHP Stack trace:
+[11-Nov-2016 04:07:36 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 04:07:36 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 04:07:36 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:07:36 America/Sao_Paulo] PHP   4. Noticia->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:08:33 America/Sao_Paulo] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 17
+[11-Nov-2016 04:08:33 America/Sao_Paulo] PHP Stack trace:
+[11-Nov-2016 04:08:33 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 04:08:33 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 04:08:33 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 04:08:33 America/Sao_Paulo] PHP   4. Noticia->inserir() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 12:22:14 America/Sao_Paulo] PHP Fatal error:  Call to a member function obj() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 63
+[11-Nov-2016 12:22:14 America/Sao_Paulo] PHP Stack trace:
+[11-Nov-2016 12:22:14 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 12:22:14 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 12:22:14 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 12:22:14 America/Sao_Paulo] PHP   4. Noticia->atualizar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 15:24:56 UTC] PHP Fatal error:  Call to undefined method Usuario::res() in /home/ubuntu/workspace/projeto/application/controllers/Usuario.php on line 17
+[11-Nov-2016 15:24:56 UTC] PHP Stack trace:
+[11-Nov-2016 15:24:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 15:24:56 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 15:24:56 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 15:24:56 UTC] PHP   4. Usuario->logar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 15:31:18 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Usuario.php on line 14
+[11-Nov-2016 15:31:18 UTC] PHP Stack trace:
+[11-Nov-2016 15:31:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 15:31:18 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 15:31:18 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 15:31:18 UTC] PHP   4. Usuario->logar() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 15:46:51 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/ubuntu/workspace/projeto/application/controllers/Usuario.php on line 27
+[11-Nov-2016 15:46:51 UTC] PHP Stack trace:
+[11-Nov-2016 15:46:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 15:46:51 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 15:47:41 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/ubuntu/workspace/projeto/application/controllers/Usuario.php on line 27
+[11-Nov-2016 15:47:41 UTC] PHP Stack trace:
+[11-Nov-2016 15:47:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 15:47:41 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 17:48:08 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/projeto/application/views/templates/head.php on line 11
+[11-Nov-2016 17:48:08 UTC] PHP Stack trace:
+[11-Nov-2016 17:48:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 17:48:08 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 17:48:08 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 17:48:08 UTC] PHP   4. Usuario->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 17:48:08 UTC] PHP   5. CI_Loader->view() /home/ubuntu/workspace/projeto/application/controllers/Usuario.php:6
+[11-Nov-2016 17:48:08 UTC] PHP   6. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[11-Nov-2016 17:48:08 UTC] PHP   7. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[11-Nov-2016 17:48:08 UTC] PHP   8. CI_Loader->view() /home/ubuntu/workspace/projeto/application/views/templates/html.php:8
+[11-Nov-2016 17:48:08 UTC] PHP   9. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[11-Nov-2016 17:48:08 UTC] PHP  10. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[11-Nov-2016 17:49:32 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/projeto/application/views/templates/head.php on line 11
+[11-Nov-2016 17:49:32 UTC] PHP Stack trace:
+[11-Nov-2016 17:49:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 17:49:32 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 17:49:32 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 17:49:32 UTC] PHP   4. Usuario->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 17:49:32 UTC] PHP   5. CI_Loader->view() /home/ubuntu/workspace/projeto/application/controllers/Usuario.php:6
+[11-Nov-2016 17:49:32 UTC] PHP   6. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[11-Nov-2016 17:49:32 UTC] PHP   7. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[11-Nov-2016 17:49:32 UTC] PHP   8. CI_Loader->view() /home/ubuntu/workspace/projeto/application/views/templates/html.php:8
+[11-Nov-2016 17:49:32 UTC] PHP   9. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[11-Nov-2016 17:49:32 UTC] PHP  10. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[11-Nov-2016 17:51:53 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/ubuntu/workspace/projeto/application/views/templates/head.php on line 11
+[11-Nov-2016 17:51:53 UTC] PHP Stack trace:
+[11-Nov-2016 17:51:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 17:51:53 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 17:51:53 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 17:51:53 UTC] PHP   4. Usuario->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 17:51:53 UTC] PHP   5. CI_Loader->view() /home/ubuntu/workspace/projeto/application/controllers/Usuario.php:6
+[11-Nov-2016 17:51:53 UTC] PHP   6. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[11-Nov-2016 17:51:53 UTC] PHP   7. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[11-Nov-2016 17:51:53 UTC] PHP   8. CI_Loader->view() /home/ubuntu/workspace/projeto/application/views/templates/html.php:8
+[11-Nov-2016 17:51:53 UTC] PHP   9. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[11-Nov-2016 17:51:53 UTC] PHP  10. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[11-Nov-2016 17:53:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/projeto/application/views/templates/head.php on line 11
+[11-Nov-2016 17:53:43 UTC] PHP Stack trace:
+[11-Nov-2016 17:53:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 17:53:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 17:53:43 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 17:53:43 UTC] PHP   4. Usuario->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 17:53:43 UTC] PHP   5. CI_Loader->view() /home/ubuntu/workspace/projeto/application/controllers/Usuario.php:6
+[11-Nov-2016 17:53:43 UTC] PHP   6. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[11-Nov-2016 17:53:43 UTC] PHP   7. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[11-Nov-2016 17:53:43 UTC] PHP   8. CI_Loader->view() /home/ubuntu/workspace/projeto/application/views/templates/html.php:8
+[11-Nov-2016 17:53:43 UTC] PHP   9. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[11-Nov-2016 22:27:47 UTC] PHP Fatal error:  Call to undefined function sessao() in /home/ubuntu/workspace/projeto/application/controllers/Usuario.php on line 6
+[11-Nov-2016 22:27:47 UTC] PHP Stack trace:
+[11-Nov-2016 22:27:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 22:27:47 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 22:27:47 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 22:27:47 UTC] PHP   4. Usuario->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 23:09:18 UTC] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/ubuntu/workspace/projeto/application/controllers/Usuario.php on line 7
+[11-Nov-2016 23:09:18 UTC] PHP Stack trace:
+[11-Nov-2016 23:09:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[11-Nov-2016 23:09:18 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[11-Nov-2016 23:09:18 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[11-Nov-2016 23:09:18 UTC] PHP   4. Usuario->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 05:07:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/projeto/application/config/routes.php on line 60
+[12-Nov-2016 05:07:21 UTC] PHP Stack trace:
+[12-Nov-2016 05:07:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[12-Nov-2016 05:07:21 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[12-Nov-2016 05:07:21 UTC] PHP   3. load_class() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:308
+[12-Nov-2016 05:07:21 UTC] PHP   4. CI_Router->__construct() /home/ubuntu/workspace/projeto/system/core/Common.php:196
+[12-Nov-2016 05:07:21 UTC] PHP   5. CI_Router->_set_routing() /home/ubuntu/workspace/projeto/system/core/Router.php:133
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/projeto/application/views/listarNoticias.php on line 12
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP Stack trace:
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP   4. Noticia->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP   5. CI_Loader->view() /home/ubuntu/workspace/projeto/application/controllers/Noticia.php:16
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP   6. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP   7. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP   8. CI_Loader->view() /home/ubuntu/workspace/projeto/application/views/templates/html.php:9
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP   9. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP  10. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP  11. CI_Loader->view() /home/ubuntu/workspace/projeto/application/views/templates/body.php:6
+[12-Nov-2016 03:35:23 America/Sao_Paulo] PHP  12. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/projeto/application/views/listarNoticias.php on line 12
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP Stack trace:
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP   4. Noticia->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP   5. CI_Loader->view() /home/ubuntu/workspace/projeto/application/controllers/Noticia.php:16
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP   6. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP   7. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP   8. CI_Loader->view() /home/ubuntu/workspace/projeto/application/views/templates/html.php:9
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP   9. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP  10. include() /home/ubuntu/workspace/projeto/system/core/Loader.php:973
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP  11. CI_Loader->view() /home/ubuntu/workspace/projeto/application/views/templates/body.php:6
+[12-Nov-2016 03:36:30 America/Sao_Paulo] PHP  12. CI_Loader->_ci_load() /home/ubuntu/workspace/projeto/system/core/Loader.php:489
+[12-Nov-2016 06:29:50 UTC] PHP Fatal error:  Call to undefined method Categoria::sessao() in /home/ubuntu/workspace/projeto/application/controllers/Categoria.php on line 12
+[12-Nov-2016 06:29:50 UTC] PHP Stack trace:
+[12-Nov-2016 06:29:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[12-Nov-2016 06:29:50 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[12-Nov-2016 06:29:50 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 06:29:50 UTC] PHP   4. Categoria->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 17:06:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 51
+[12-Nov-2016 17:06:14 UTC] PHP Stack trace:
+[12-Nov-2016 17:06:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[12-Nov-2016 17:06:14 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[12-Nov-2016 15:06:33 America/Sao_Paulo] PHP Fatal error:  Call to undefined method Noticia::sessao() in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 12
+[12-Nov-2016 15:06:33 America/Sao_Paulo] PHP Stack trace:
+[12-Nov-2016 15:06:33 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[12-Nov-2016 15:06:33 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[12-Nov-2016 15:06:33 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 15:06:33 America/Sao_Paulo] PHP   4. Noticia->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 15:07:18 America/Sao_Paulo] PHP Fatal error:  Call to undefined method Noticia::sessao() in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 12
+[12-Nov-2016 15:07:18 America/Sao_Paulo] PHP Stack trace:
+[12-Nov-2016 15:07:18 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[12-Nov-2016 15:07:18 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[12-Nov-2016 15:07:18 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 15:07:18 America/Sao_Paulo] PHP   4. Noticia->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 15:07:29 America/Sao_Paulo] PHP Fatal error:  Call to undefined method Noticia::sessao() in /home/ubuntu/workspace/projeto/application/controllers/Noticia.php on line 12
+[12-Nov-2016 15:07:29 America/Sao_Paulo] PHP Stack trace:
+[12-Nov-2016 15:07:29 America/Sao_Paulo] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[12-Nov-2016 15:07:29 America/Sao_Paulo] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[12-Nov-2016 15:07:29 America/Sao_Paulo] PHP   3. call_user_func_array:{/home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529}() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 15:07:29 America/Sao_Paulo] PHP   4. Noticia->index() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:529
+[12-Nov-2016 17:14:43 UTC] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/ubuntu/workspace/projeto/application/config/routes.php on line 54
+[12-Nov-2016 17:14:43 UTC] PHP Stack trace:
+[12-Nov-2016 17:14:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/projeto/index.php:0
+[12-Nov-2016 17:14:43 UTC] PHP   2. require_once() /home/ubuntu/workspace/projeto/index.php:315
+[12-Nov-2016 17:14:43 UTC] PHP   3. load_class() /home/ubuntu/workspace/projeto/system/core/CodeIgniter.php:308
+[12-Nov-2016 17:14:43 UTC] PHP   4. CI_Router->__construct() /home/ubuntu/workspace/projeto/system/core/Common.php:196
+[12-Nov-2016 17:14:43 UTC] PHP   5. CI_Router->_set_routing() /home/ubuntu/workspace/projeto/system/core/Router.php:133

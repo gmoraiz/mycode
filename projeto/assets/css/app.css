@@ -1,0 +1,18 @@
+.main{
+    margin-top:4%;
+    min-height:40%;
+}
+.titulo{
+    height:80px;
+}
+h2:hover{
+    text-decoration:underline;
+}
+
+.categoria{
+    display:inline-block;
+    background-color:#333;
+    padding:0.5% 0.7%;
+    border-radius:5%;
+    color:#FFF;
+}

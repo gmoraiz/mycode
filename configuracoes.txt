@@ -1,0 +1,16 @@
+- CONFIGURAÇÃO DO AMBIENTE PHPMYADMIN
+    mysql-ctl install
+    phpmyadmin-ctl install
+- INICIAÇÃO
+    mysql-ctl start
+- CRIANDO O HTACCESS
+    Rewriteengine On
+    RewriteRule ^([A-Za-z]+)/([A-Za-z]+)/?$ 10-10-16-Webservice/app/web.php?classe=$1&met=$2 [L]
+- CURLS
+    O parametro "-v" nos permite ver o header do response.
+    O "-X" nos permite inserir o metodo da requisição HTTP. Exemplo -X POST
+    O "-d" permite a criação de um json. Exemplo: -d '{"nome":"Anna"}'
+- CONFIGURAÇÃO DO CODEIGNITER
+    wget https://github.com/bcit-ci/CodeIgniter/archive/3.1.2.zip
+    unzip 3.1.2.zip
+    mv CodeIgniter-3.1.2/* ./
